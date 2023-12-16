@@ -121,6 +121,9 @@ header .container {
 
 /* section-1 */
 .difpadding {
+  background-image: url(../images/hero/heroimg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   padding-top: 188px;
   padding-bottom: 188px;
   text-align: center;
