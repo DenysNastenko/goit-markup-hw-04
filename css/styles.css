@@ -138,19 +138,16 @@ header .container {
 
 /* section-1 */
 .difpadding {
-    background-image:
-    linear-gradient(to bottom,
-     rgba(46, 47, 66, 0.70),
-     rgba(46, 47, 66, 0.70)),
-     url(../images/hero/heroimg.jpg); 
+  background-image: linear-gradient(
+      to bottom,
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/hero/heroimg.jpg);
 
-  
-
-  
-  
   background-repeat: no-repeat;
   background-size: cover;
-  
+
   padding-top: 188px;
   padding-bottom: 188px;
   text-align: center;
