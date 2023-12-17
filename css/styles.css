@@ -265,7 +265,7 @@ background: #F4F4FD;
   
 }
 .person {
-  padding: 32px 0;
+  padding: 32px 16px;
 }
 .list-ourteam {
   display: flex;
